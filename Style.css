@@ -17,7 +17,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 250px;
   
   
 }
@@ -32,13 +32,14 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 15px;
+  padding: 50px;
   color: antiquewhite;
   text-align: center;
 }
 iframe:focus {
     align-content: center;
     outline: none;
+    width: 80%
   }
   
   iframe[seamless] {
